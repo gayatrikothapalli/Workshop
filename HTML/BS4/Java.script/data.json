@@ -1,0 +1,20 @@
+{
+    "PROFILE":[{
+    "Image":"CIET1.jpg",   
+    "Name":"CIET",
+    "Branch":"IT",
+    "Year":"2nd"
+},
+{
+    "Image":"CIET2.png",   
+    "Name":"CIET",
+    "Branch":"IT",
+    "Year":"2nd"
+},
+{
+    "Image":"CIET3.jpg",   
+    "Name":"CIET",
+    "Branch":"IT",
+    "Year":"2nd"
+}]
+}
